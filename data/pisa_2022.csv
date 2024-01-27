@@ -5,25 +5,99 @@ reading,Australia,girl,509
 reading,Australia,boy,487
 science,Australia,girl,506
 science,Australia,boy,508
-
 math,Austria,girl,478
 math,Austria,boy,497
 reading,Austria,girl,491
 reading,Austria,boy,470
 science,Austria,girl,485
 science,Austria,boy,497
-
 math,Belgium,girl,486
 math,Belgium,boy,493
 reading,Belgium,girl,492
 reading,Belgium,boy,465
 science,Belgium,girl,491
 science,Belgium,boy,491
-
 math,Canada,girl,491
 math,Canada,boy,503
 reading,Canada,girl,519
 reading,Canada,boy,495
 science,Canada,girl,515
 science,Canada,boy,515
-
+math,Chile,girl,403
+math,Chile,boy,420
+reading,Chile,girl,451
+reading,Chile,boy,445
+science,Chile,girl,436
+science,Chile,boy,450
+math,Colombia,girl,378
+math,Colombia,boy,387
+reading,Colombia,girl,414
+reading,Colombia,boy,403
+science,Colombia,girl,408
+science,Colombia,boy,414
+math,Costa Rica,girl,378
+math,Costa Rica,boy,387
+reading,Costa Rica,girl,414
+reading,Costa Rica,boy,403
+science,Costa Rica,girl,408
+science,Costa Rica,boy,414
+math,Czech Republic,girl,483
+math,Czech Republic,boy,491
+reading,Czech Republic,girl,503
+reading,Czech Republic,boy,474
+science,Czech Republic,girl,499
+science,Czech Republic,boy,497
+math,Denmark,girl,483
+math,Denmark,boy,495
+reading,Denmark,girl,499
+reading,Denmark,boy,479
+science,Denmark,girl,490
+science,Denmark,boy,497
+math,Estonia,girl,507
+math,Estonia,boy,513
+reading,Estonia,girl,525
+reading,Estonia,boy,498
+science,Estonia,girl,528
+science,Estonia,boy,524
+math,Finland,girl,487
+math,Finland,boy,482
+reading,Finland,girl,513
+reading,Finland,boy,468
+science,Finland,girl,522
+science,Finland,boy,500
+math,France,girl,469
+math,France,boy,479
+reading,France,girl,484
+reading,France,boy,464
+science,France,girl,488
+science,France,boy,487
+math,Germany,girl,469
+math,Germany,boy,480
+reading,Germany,girl,490
+reading,Germany,boy,470
+science,Germany,girl,492
+science,Germany,boy,493
+math,Greece,girl,427
+math,Greece,boy,433
+reading,Greece,girl,451
+reading,Greece,boy,426
+science,Greece,girl,446
+science,Greece,boy,436
+math,Hungary,girl,465
+math,Hungary,boy,480
+reading,Hungary,girl,481
+reading,Hungary,boy,465
+science,Hungary,girl,484
+science,Hungary,boy,488
+math,Iceland,girl,457
+math,Iceland,boy,461
+reading,Iceland,girl,454
+reading,Iceland,boy,419
+science,Iceland,girl,454
+science,Iceland,boy,440
+math,Ireland,girl,485
+math,Ireland,boy,498
+reading,Ireland,girl,525
+reading,Ireland,boy,507
+science,Ireland,girl,501
+science,Ireland,boy,507
